@@ -1,4 +1,4 @@
-# EnCrypto-Crypto Tracker App
+# EnCrypto-A Crypto Tracker App
 
 
 ## Demo
